@@ -1,3 +1,8 @@
+## React Js e Axios
+Ao utilizar não esqueça de instalar as dependencias com npm
+Projeto criado no curso ReactJs da RocketSeat
+O intuito do projeto é consumir uma api utilizando o axios e os recursos do ReactJs assim como as folhas de estilo em css
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
